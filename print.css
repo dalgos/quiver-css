@@ -1,0 +1,38 @@
+/*
+  Edit this CSS file to change styles of the exported PDF or for printing.
+  If you need to revert it back, use the "Reset" button.
+*/
+
+/**
+* Text Cell
+*/
+
+.text-cell {
+  font-size: 14px;
+}
+
+/**
+* Code Cell
+*/
+
+.code-cell {
+  font-size: 13px;
+  font-family: Fira Code, Hack, Menlo, Monaco, 'Courier New', monospace;
+}
+
+/**
+* Markdown Cell
+*/
+
+.markdown-cell {
+  font-size: 14px;
+}
+
+/**
+* LaTeX Cell
+*/
+
+.latex-cell {
+  font-size: 14px;
+}
+
